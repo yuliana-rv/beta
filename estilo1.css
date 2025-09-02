@@ -1,0 +1,70 @@
+#contenedor {
+    width: 90%;
+    margin:auto;
+    background-color: #7D7D7D;
+}
+#encabezado {
+    text-align: center;
+    background-color: #EFD80E;
+    align-self: center;
+}
+#experiencia {
+    color: white;
+}
+#menu1 {
+    background-color: #646464;
+    text-align: center;
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: white;
+     margin-right: 15px;
+     font-size: 15px;
+}
+#derecha {
+    float: right;
+    background-color: #B4B3A8;
+    width: 80%;
+}
+#izquierda {
+    background-color: #646464;
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+#piepagina {
+    clear: both;
+    background-color: #8f0884;
+}
+#piepagina{
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+#texto {
+    color: white;
+    text-align: center;
+    text-align: justify;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 20px;
+}
+#texto1{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+#texto2 {
+    color: white;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 22px;
+}
+#titulo {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
